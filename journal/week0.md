@@ -14,6 +14,7 @@ Added the below code to .gitpod.yml - commit (bf02d65).
 ```
 
 ###AWS Billing Alarm
+
 ![image](https://user-images.githubusercontent.com/87647221/219954174-be4939dd-6153-4342-a2ad-60486178e8d2.png)
 
 alarm-config.json:
@@ -21,6 +22,7 @@ alarm-config.json:
 
 
 ###AWS Budget
+
 ![image](https://user-images.githubusercontent.com/87647221/219954121-8a60e705-10e8-4d6e-a7d1-eb4f071964e6.png)
 
 Budget:
