@@ -13,7 +13,7 @@ Added the below code to .gitpod.yml - commit (bf02d65).
       cd $THEIA_WORKSPACE_ROOT
 ```
 
-###AWS Billing Alarm
+### AWS Billing Alarm
 
 ![image](https://user-images.githubusercontent.com/87647221/219954174-be4939dd-6153-4342-a2ad-60486178e8d2.png)
 
@@ -21,7 +21,7 @@ alarm-config.json:
 ![image](https://user-images.githubusercontent.com/87647221/219954321-5d8eab8a-00b6-4f95-b28c-171749c18fee.png)
 
 
-###AWS Budget
+### AWS Budget
 
 ![image](https://user-images.githubusercontent.com/87647221/219954121-8a60e705-10e8-4d6e-a7d1-eb4f071964e6.png)
 
@@ -31,7 +31,7 @@ Budget:
 Notification:
 ![image](https://user-images.githubusercontent.com/87647221/219954345-9498c9f8-6b40-43c1-b064-ba74f44b6bb2.png)
 
-###LucidCharts:
+### LucidCharts:
 
 1. Logical Diagram:
 ![image](https://user-images.githubusercontent.com/87647221/219954469-e5a04def-d534-4cb5-a862-81c6784f3bd6.png)
